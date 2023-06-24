@@ -1,0 +1,2 @@
+2022-10-25 11:39:18.852  INFO 83702 --- [Thread-352] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@56dfe701: startup date [Wed Sep 21 20:42:29 EET 2022]; root of context hierarchy
+2022-10-25 11:39:18.883  INFO 83702 --- [Thread-352] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown

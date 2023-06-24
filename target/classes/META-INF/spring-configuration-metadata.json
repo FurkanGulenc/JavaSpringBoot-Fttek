@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.springpractium.fttek.fttekProperties",
+      "name": "fttek",
+      "type": "com.springpractium.fttek.fttekProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.springpractium.fttek.fttekProperties",
+      "name": "fttek.display-product-with-comments",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
